@@ -15,7 +15,7 @@
 4. [Becoming a Senior Leader](#becoming-a-senior-leader)
 5. [Managing Large Engineering Organizations](#managing-large-engineering-organizations)
 6. [Dealing with the Personal Side of Management](#dealing-with-the-personal-side-of-management)
-7. [Conclusion](#final-conclusion)
+7. [Final Conclusion](#final-conclusion)
 
 ---
 
